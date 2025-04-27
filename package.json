@@ -1,0 +1,17 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "a simple http server for a DEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DEX"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
